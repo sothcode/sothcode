@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sothcode
 - 👀 I’m interested in understanding the world that we live in.
 - 🌱 I’m currently learning how to function as a human being.
-- 💞️ I’m looking to collaborate on anything and everything.  Especially if it involves food.
+- 💞️ I’m looking to collaborate on anything and everything.  Especially if it involves physics and engineering, music, or food.
 - 📫 How to reach me: seth.howell@stonybrook.edu
 
 <!---
